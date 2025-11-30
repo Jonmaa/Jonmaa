@@ -25,7 +25,7 @@ const developer = {
 ```
 
 - 🔭 I'm currently **open to work** and looking for new opportunities
-- 🌱 I'm learning **MLOps, Cloud Technologies (AWS), and expanding my Machine Learning skills**
+- 🌱 I'm learning **SpringBoot, Cloud Technologies (AWS), and expanding my MLOps**
 - 👯 I'm looking to collaborate on **Backend development, ML/AI projects, or FinTech applications**
 - 💬 Ask me about **Python, JavaScript, Backend Development, or Financial Technology**
 - ⚡ Fun fact: **I combine my passion for tech and finance to build trading bots!**
