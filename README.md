@@ -175,6 +175,6 @@ Do you have an interesting project or just want to chat? Feel free to contact me
 
 <div align="center">
 
-*"[TU_FRASE_MOTIVADORA_FAVORITA]"*
+*"Keep pushing forward."*
 
 </div>
