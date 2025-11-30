@@ -121,6 +121,7 @@ const developer = {
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jonmaa&theme=tokyo-night)
 <!--END_SECTION:activity-->
 
 ---
