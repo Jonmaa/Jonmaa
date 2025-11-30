@@ -121,7 +121,6 @@ const developer = {
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- Esta sección se puede automatizar con GitHub Actions -->
 <!--END_SECTION:activity-->
 
 ---
