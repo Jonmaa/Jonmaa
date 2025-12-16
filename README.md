@@ -111,7 +111,7 @@ const developer = {
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jonmaa&repo=MLOps&theme=tokyonight)](https://github.com/Jonmaa/MLOps)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jonmaa&repo=PolymarketBot&theme=tokyonight)](https://github.com/Jonmaa/PolymarketBot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jonmaa&repo=ToDoList&theme=tokyonight)](https://github.com/Jonmaa/ToDoList)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jonmaa&repo=btc-polymarket-bot&theme=tokyonight)](https://github.com/Jonmaa/btc-polymarket-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jonmaa&repo=Dashboard-Finanzas&theme=tokyonight)](https://github.com/Jonmaa/Dashboard-Finanzas)
 
 </div>
