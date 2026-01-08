@@ -2,7 +2,7 @@
 
 # ¡Hello! 👋 I'm Jon
 
-### IT Engineer | Management and Information Systems
+### IT Engineer | Data Engineer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jon-marcos-mercadé)
 [![X (formerly Twitter)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Jonmaa17)
@@ -18,35 +18,34 @@
 const developer = {
     name: "Jon",
     location: "Bilbao, Spain",
-    role: "IT Engineer",
-    passionateAbout: ["Software Development", "Machine Learning", "Finance", "Japanese culture"],
-    currentlyLearning: "MLOps & Cloud Technologies"
+    role: "IT Engineer | Data Engineer",
+    passionateAbout: ["Software Development", "Machine Learning", "FinTech", "Data Engineering"],
+    currentlyLearning: "LLMs/GenAI"
 };
 ```
 
-- 🔭 I'm currently **open to work** and looking for new opportunities
-- 🌱 I'm learning **SpringBoot, Cloud Technologies (AWS), and expanding my MLOps**
-- 👯 I'm looking to collaborate on **Backend development, ML/AI projects, or FinTech applications**
-- 💬 Ask me about **Python, JavaScript, Backend Development, or Financial Technology**
-- ⚡ Fun fact: **I combine my passion for tech and finance to build trading bots!**
+- 🔭 **Open to work** in Data Engineering, ML Engineering, or Python Development roles
+- 🌱 Learning **Apache Spark, Kafka, and expanding my MLOps & GenAI skills**
+- 👯 I'm looking to collaborate on **Data pipelines, ML/AI projects, or FinTech applications**
+- 💬 Ask me about **Python, Data Engineering, MLOps, or Financial Technology**
+- ⚡ Fun fact: **I build trading bots that combine real-time data pipelines with ML models!**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-<!-- [AÑADE O ELIMINA LENGUAJES SEGÚN TUS CONOCIMIENTOS] -->
+
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<!-- [AÑADE O ELIMINA TECNOLOGÍAS SEGÚN TUS CONOCIMIENTOS] -->
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -69,6 +68,15 @@ const developer = {
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+### Data & ML Tools
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -120,16 +128,14 @@ const developer = {
 
 ## 📈 Recent Activity
 
-<!--START_SECTION:activity-->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jonmaa&theme=tokyo-night)
-<!--END_SECTION:activity-->
 
 ---
 
 ## 🎯 Objectives 2026
 
+- Contribute to a major open-source ML project
 - Learn new programming languages
-- Contribute to open-source projects to improve collaboration skills
 - Learn best practices in clean code, testing, and DevOps
 - Expand my professional network and attend tech events or meetups
 
@@ -147,6 +153,7 @@ const developer = {
 ## 🎓 Education & Certifications
 
 - 🎓 **Computer Engineer in Management and Information Systems** - Bilbao School of Engineering (2025)
+- 📝 **Final Degree Project:** Empirical analysis of MLOps frameworks - 9.0
 - 📜 **JavaScript Course** - Scrimba (2024)
 ---
 
@@ -175,6 +182,6 @@ Do you have an interesting project or just want to chat? Feel free to contact me
 
 <div align="center">
 
-*"Keep pushing forward."*
+*"Delusional till it works."*
 
 </div>
