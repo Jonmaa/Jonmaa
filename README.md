@@ -25,7 +25,7 @@ const developer = {
 ```
 
 - 🔭 **Open to work** in Data Engineering, ML Engineering, or Python Development roles
-- 🌱 Learning **Apache Spark, Kafka, and expanding my MLOps & GenAI skills**
+- 🌱 Learning **Agentic AI, LangChain, and expanding my MLOps & GenAI skills**
 - 👯 I'm looking to collaborate on **Data pipelines, ML/AI projects, or FinTech applications**
 - 💬 Ask me about **Python, Data Engineering, MLOps, or Financial Technology**
 - ⚡ Fun fact: **I build trading bots that combine real-time data pipelines with ML models!**
